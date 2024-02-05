@@ -1,0 +1,4 @@
+/*The path you've provided (/Users/manya/newapp/app/navbar/bijak_nobg.png) seems to be an absolute path on your local machine. When working with web applications, you typically want to use relative paths or URLs that are accessible to anyone viewing your website.Here's what you can do to ensure the image is displayed:
+
+Move the Image to the Public Directory: Place your bijak_nobg.png image file inside the public directory of your Next.js project. This directory is used for static assets that you want to serve alongside your application code.
+Update the Image Path: Once the image is in the public directory, you can reference it using a relative path from the root of your domain. For example, if the image is directly in the public directory, you would reference it like this: src="/bijak_nobg.png".*/

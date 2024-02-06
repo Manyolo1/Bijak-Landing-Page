@@ -1,6 +1,6 @@
 
 
-'use client'
+"use client"
 import { FaApple } from "react-icons/fa"
 import { FaGooglePlay } from "react-icons/fa"
 import React from "react"
